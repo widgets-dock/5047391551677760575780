@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656498158550",
+    "project_id": "manhwa-webcomics",
+    "storage_bucket": "manhwa-webcomics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656498158550:android:11973ddf2f548d028ed277",
+        "android_client_info": {
+          "package_name": "com.anukupedot.wbcmcmnhwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656498158550-qi3hbpo2439tkgjrat3no74idpfss2l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdGcC_1SWKdr2NwGc5YJYxv8vOmV1GvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656498158550-qi3hbpo2439tkgjrat3no74idpfss2l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
